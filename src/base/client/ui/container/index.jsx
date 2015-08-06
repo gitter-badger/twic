@@ -10,7 +10,7 @@ const classMap = {
 	[Platforms.Linux]: styles.linux
 };
 
-export default class Platform extends React.Component {
+export default class Container extends React.Component {
 	render() {
 		return (
 			<div className={classMap[this.props.platform]}>
