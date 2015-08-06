@@ -61,6 +61,7 @@
     "qs": "4.0.0",
     "react": "0.13.3",
     "react-pure-render": "1.0.2",
+    "redux": "1.0.0-rc",
     "rimraf": "2.4.2",
     "style-loader": "0.12.3",
     "stylus-loader": "1.0.0",
